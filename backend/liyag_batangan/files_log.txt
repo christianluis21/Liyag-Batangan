@@ -1,0 +1,23 @@
+Array
+(
+    [business_logo] => Array
+        (
+            [name] => 1000003042.jpg
+            [full_path] => 1000003042.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp2\tmp\php1F62.tmp
+            [error] => 0
+            [size] => 40413
+        )
+
+    [document] => Array
+        (
+            [name] => 1000003042.jpg
+            [full_path] => 1000003042.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp2\tmp\php1F92.tmp
+            [error] => 0
+            [size] => 40413
+        )
+
+)

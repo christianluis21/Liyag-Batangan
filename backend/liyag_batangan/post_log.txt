@@ -1,0 +1,8 @@
+Array
+(
+    [user_id] => 33
+    [business_name] => Batangas Harvest
+    [description] => simple
+    [status] => Pending
+    [business_address] => Batangas State University Claro M. Recto Campus, Arturo Tanco Drive, Marauoy, Lipa, Batangas, Calabarzon, 4217, Philippines
+)
